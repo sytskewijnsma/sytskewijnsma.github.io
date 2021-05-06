@@ -1,5 +1,3 @@
-# Sytske Wijnsma
-
 I am a fourth year PhD student at the University of Cambridge, Judge Business School. My primary research interest is in solving sustainability issues that lie at the intersection of Operations Management and Environmental and Development Economics. Two areas in particular have become the focus of my recent activities: designing supply chain and policy interventions to eliminate non-compliance in the waste chain (motivated by my collaboration with the environmental crime unit of Europol, the European Law Enforcement Agency) and analysing rural livelihood portfolios to identify configurations that alleviate poverty of rural smallholders (motivated by my collaboration with the xx unit of the UN Environment).
 
 Prior to my PhD, I obtained a BSc and MSc in Economics and Finance at the VU University Amsterdam and an MPhil in Management Science and Operations and the University of Cambridge, Judge Business School. I also worked for 2 years as a quantitative analyst for commodity trading. At Cambridge, I have been actively involved as a PhD representative and with initiatives like Learning Together, a programme that brings prison inmates and University students together to study alongside each other and learn about the criminal justice system and the prison journey.
@@ -9,13 +7,13 @@ Prior to my PhD, I obtained a BSc and MSc in Economics and Finance at the VU Uni
 **Research Interests**: Reverse Supply Chain, Sustainable Sourcing, Poverty Alleviation, Social and Environmental Responsibility
 ##
 
-## Research
+# Research
 
-### Published and under review
+## Published and under review
 **Sustainable Triple-A Supply Chains**. _Production and Operations Management, 2021_\
 With Feryal Erhun and Tim Kraft
 
-### Working papers
+## Working papers
 **Treat, Dump, or Export? How Domestic and International Waste Management Policies Shape Waste Chain Outcomes**\
 With Dominique Lauga and Beril Toktay
 - _MSOM Sustainable Operations SIG_ 2021, Virtual
@@ -31,7 +29,7 @@ With Paul Kattuman
 **When is Honesty the Best Policy: a Game Theoretic Analysis of Price and Product Offering for Ethical and Fair-trade Goods**\
 With Dominique Lauga and Vincent Mak
 
-## Policy notes and research briefs
+# Policy notes and research briefs
 
 Downstream sustainability: the big reset for recycling in the U.S.\
 [Kinaxis column](https://www.kinaxis.com/en/blog/downstream-sustainability-big-reset-recycling-us), July 2020.
@@ -47,7 +45,7 @@ BRAC and Simprints Internal Report, August 2018
 
 ![Sytske_UNEP2](https://user-images.githubusercontent.com/83771707/117344342-322f6f00-ae9d-11eb-8846-c7fa93d3f068.jpg)
 
-## Teaching
+# Teaching
 [Operations Management](https://www.jbs.cam.ac.uk/programmes/executive-mba/curriculum/programme-structure/courses/) (Course Coordinator)\
 2020, 2021 (Executive MBA)
 - Leading Panel Discussions: [Will coronavirus disruptions prompt a new focus on supply chain risk and resiliency for business?](https://www.jbs.cam.ac.uk/insight/2020/supply-chain-resiliency/)
