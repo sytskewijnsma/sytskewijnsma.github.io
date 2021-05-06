@@ -5,6 +5,10 @@ Prior to my PhD, I obtained a BSc and MSc in Economics and Finance at the VU Uni
 **Research Methods**: Game Theory, Applied Econometrics, Unsupervised Learning (clustering), Compositional Data Analysis\
 **Research Interests**: Reverse Supply Chain, Sustainable Sourcing, Poverty Alleviation, Social and Environmental Responsibility
 
+[1.2]: http://i.imgur.com/wWzX9uB.png
+[1]: http://www.twitter.com/sytskewijnsma
+Follow me on [![alt text][1.2]][1] or e-mail scmsw2@jbs.cam.ac.uk
+
 ## Research
 
 ### Published and under review
