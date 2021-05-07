@@ -27,6 +27,7 @@ With Paul Kattuman
 - _MSOM Conference_ 2021, Virtual
 - _POMS_ 2021, Virtual
 - _United Nations Environment Programme_ 2019, Nairobi
+- Recipient of the _Economic and Social Research Council Grant_ for collaborative activities, 2019
 
 **When is Honesty the Best Policy: a Game Theoretic Analysis of Price and Product Offering for Ethical and Fair-trade Goods**\
 With Dominique Lauga and Vincent Mak
