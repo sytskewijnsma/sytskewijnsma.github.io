@@ -12,7 +12,7 @@ Follow me on [![alt text][1.2]][1] or e-mail scmsw2@jbs.cam.ac.uk
 ## Research
 
 ### Published and under review
-**Sustainable Triple-A Supply Chains**. _Production and Operations Management, 2021_\
+**Sustainable Triple-A Supply Chains**. _Production and Operations Management, 2021_ (Special Issue)\
 With Feryal Erhun and Tim Kraft
 
 ### Working papers
