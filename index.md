@@ -52,7 +52,7 @@ BRAC and Simprints Internal Report, August 2018
 [Operations Management](https://www.jbs.cam.ac.uk/programmes/executive-mba/curriculum/programme-structure/courses/) (Course Coordinator)\
 2020, 2021 (Executive MBA)
 - Leading Panel Discussions: [Will coronavirus disruptions prompt a new focus on supply chain risk and resiliency for business?](https://www.jbs.cam.ac.uk/insight/2020/supply-chain-resiliency/)
-- Faculty Teaching Award for achieving evaluations >4/5 (4.5)
+- Faculty Teaching Award for achieving evaluations >4/5 (4.5, 4.7)
 - Some of the testimonials:
 >_"Sytske was absolutely fantastic and lived up to the expectation!"_\
 >_"The interactions were excellent and she was incredibly helpful on queries which extended beyond the course!"_\
