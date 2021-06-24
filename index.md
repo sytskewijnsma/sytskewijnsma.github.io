@@ -35,11 +35,11 @@ With Dominique Lauga and Vincent Mak
 
 ## Policy notes and research briefs
 
-Downstream sustainability: the big reset for recycling in the U.S.\
-[Kinaxis column](https://www.kinaxis.com/en/blog/downstream-sustainability-big-reset-recycling-us), July 2020.
+[Downstream sustainability: the big reset for recycling in the U.S.](https://www.kinaxis.com/en/blog/downstream-sustainability-big-reset-recycling-us)\
+Kinaxis column, July 2020.
 
-Helping Europol reduce illegal electronic waste trafficking – how to leverage a PhD to have impact.\
-[Cambridge University Judge Business School column](https://www.jbs.cam.ac.uk/insight/2020/helping-europol-reduce-illegal-electronic-waste-trafficking-how-to-leverage-a-phd-to-have-impact/), July 2020
+[Helping Europol reduce illegal electronic waste trafficking – how to leverage a PhD to have impact.](https://www.jbs.cam.ac.uk/insight/2020/helping-europol-reduce-illegal-electronic-waste-trafficking-how-to-leverage-a-phd-to-have-impact/)\
+Cambridge University Judge Business School column, July 2020
 
 Africa’s Co-existence Landscapes: Understanding Land-use Decisions to Secure the Future for Wildlife and People. \
 UNEP Internal Report, September 2019
