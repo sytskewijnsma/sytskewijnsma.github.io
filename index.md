@@ -12,7 +12,7 @@ Follow me on [![alt text][1.2]][1] or e-mail scmsw2@jbs.cam.ac.uk
 ## Research
 
 ### Published and under review
-[**Sustainable Triple-A Supply Chains**](https://onlinelibrary.wiley.com/doi/10.1111/poms.13306). 2021 _Production and Operations Management 30(3)_:644-655 (Special Issue)\
+[**Sustainable Triple-A Supply Chains**](https://onlinelibrary.wiley.com/doi/10.1111/poms.13306). 2021. _Production and Operations Management 30(3)_:644-655 (Special Issue)\
 With Feryal Erhun and Tim Kraft
 
 **Treat, Dump, or Export? How Domestic and International Waste Management Policies Shape Waste Chain Outcomes**. _Under review_\
