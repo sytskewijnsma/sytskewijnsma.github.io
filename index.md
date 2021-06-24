@@ -15,12 +15,13 @@ Follow me on [![alt text][1.2]][1] or e-mail scmsw2@jbs.cam.ac.uk
 **Sustainable Triple-A Supply Chains**. _Production and Operations Management, 2021_ (Special Issue)\
 With Feryal Erhun and Tim Kraft
 
-### Working papers
-**Treat, Dump, or Export? How Domestic and International Waste Management Policies Shape Waste Chain Outcomes**\
+**Treat, Dump, or Export? How Domestic and International Waste Management Policies Shape Waste Chain Outcomes**. _Under review_\
 With Dominique Lauga and Beril Toktay
 - _MSOM Sustainable Operations SIG_ 2021, Virtual
 - _INFORMS_ 2019, 2020, 2021
 - _Europol Annual Environmental Crime Meeting_ 2018, The Hague
+
+### Working papers
 
 **The Interrelation between Smallholder Livelihood Portfolios, Poverty, and Natural Resources**\
 With Paul Kattuman
