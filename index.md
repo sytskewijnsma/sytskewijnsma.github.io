@@ -17,7 +17,8 @@ With Feryal Erhun and Tim Kraft
 
 **Treat, Dump, or Export? How Domestic and International Waste Management Policies Shape Waste Chain Outcomes**. _Under review_\
 With Dominique Lauga and Beril Toktay
-- _MSOM Sustainable Operations SIG_ 2021, Virtual
+- [_MSOM Sustainable Operations SIG_](https://whova.com/portal/webapp/masom_202106/Agenda/1656151) 2021, Virtual
+- [_Wharton Seminar Series_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876398) March 2021, Virtual (Presented by Beril Toktay)
 - _INFORMS_ 2019, 2020, 2021
 - _Europol Annual Environmental Crime Meeting_ 2018, The Hague
 
@@ -25,7 +26,7 @@ With Dominique Lauga and Beril Toktay
 
 **The Interrelation between Smallholder Livelihood Portfolios, Poverty, and Natural Resources**\
 With Paul Kattuman
-- _MSOM Conference_ 2021, Virtual
+- [_MSOM Conference_](https://whova.com/portal/webapp/masom_202106/Agenda/1681660) 2021, Virtual
 - _POMS_ 2021, Virtual
 - _United Nations Environment Programme_ 2019, Nairobi
 - Recipient of the _Economic and Social Research Council Grant_ for collaborative activities, 2019
