@@ -56,6 +56,9 @@ BRAC and Simprints Internal Report, August 2018
 - Leading Panel Discussions: [Will coronavirus disruptions prompt a new focus on supply chain risk and resiliency for business?](https://www.jbs.cam.ac.uk/insight/2020/supply-chain-resiliency/)
 - Faculty Teaching Award for achieving evaluations >4/5 (4.5, 4.7)
 - Some of the testimonials:
+>_"Sytske's interactions in the chat during lectures, and on the VLE between lectures has been very useful. She's shared
+examples that both illuminate and expand on the concepts we've been discussing, and she's highlighted the best contributions
+by members of the class"_\
 >_"Sytske was absolutely fantastic and lived up to the expectation!"_\
 >_"The interactions were excellent and she was incredibly helpful on queries which extended beyond the course!"_\
 >_"Fantastic contributions on the VLE (Virtual Learning Environment) from Sytske both in the run up to and after lecture weekends providing useful ideas and generating discussions."_
