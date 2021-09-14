@@ -1,3 +1,8 @@
+<head>
+  <meta name="google-site-verification" content="7Gm3dNmZ5nfU409keB4y_xrgRAKSPWiBR1v6ajbnDUo" />
+<\head>
+
+<body>
 I am a PhD candidate at the University of Cambridge, Judge Business School. My primary research interest is in solving sustainability issues that lie at the intersection of Operations Management and Environmental and Development Economics. Two areas in particular have become the focus of my recent activities: designing supply chain and policy interventions to eliminate non-compliance by firms in the waste chain (motivated by my collaboration with the environmental crime unit of Europol, the European Law Enforcement Agency) and analysing rural livelihood portfolios to identify configurations that alleviate poverty of rural smallholders (motivated by my collaboration with the ecosystems and conservation units of the UN Environment).
 
 Prior to my PhD, I obtained a BSc and MSc in Economics and Finance at the VU University Amsterdam and an MPhil in Management Science and Operations at the University of Cambridge, Judge Business School. I also worked for 2 years as a quantitative analyst for commodity trading. At Cambridge, I have been actively involved as a PhD representative and with initiatives like Learning Together, a programme that brings prison inmates and University students together to study alongside each other and learn about the criminal justice system and the prison journey. I am a reviewer for Production and Operations Management.
@@ -94,3 +99,4 @@ by members of the class"_\
 [Fundamentals of Competitive Markets](https://www.jbs.cam.ac.uk/programmes/research-programmes/research-masters/mphil-strategy-marketing-operations/programme-overview/the-operations-technology-management-specialisation/) (TA)\
 2017, 2018 (Research Masters)
 - Faculty Teaching Award for achieving evaluations >4/5 (4.4, 4.7)
+<\body>
