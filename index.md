@@ -36,8 +36,11 @@ With Dominique Lauga and Vincent Mak
 
 ## Policy notes and research briefs
 
+[From a problem to a resource: waste and the reverse supply chain explained](https://festivalofsocialscience.com/events/creative-short-project-2-treat-dump-or-export/)\
+National Festival of Social Science, November 2021
+
 [Downstream sustainability: the big reset for recycling in the U.S.](https://www.kinaxis.com/en/blog/downstream-sustainability-big-reset-recycling-us)\
-Kinaxis column, July 2020.
+Kinaxis column, July 2020
 
 [Helping Europol reduce illegal electronic waste trafficking – how to leverage a PhD to have impact.](https://www.jbs.cam.ac.uk/insight/2020/helping-europol-reduce-illegal-electronic-waste-trafficking-how-to-leverage-a-phd-to-have-impact/)\
 Cambridge University Judge Business School column, July 2020
