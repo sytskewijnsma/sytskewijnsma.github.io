@@ -24,7 +24,7 @@ With Dominique Lauga and Beril Toktay
 
 ### Working papers
 
-**The Interrelation between Smallholder Livelihood Portfolios, Poverty, and Natural Resources**\
+**Sourcing with  a  Portfolio Perspec-tive:  How Income Composition Affects Smallholder Poverty in Rural Villages**\
 With Paul Kattuman
 - [_MSOM Conference_](https://whova.com/portal/webapp/masom_202106/Agenda/1681660) 2021, Virtual
 - _POMS_ 2021, Virtual
