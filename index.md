@@ -15,7 +15,7 @@ Follow me on [![alt text][1.2]][1] or e-mail scmsw2@jbs.cam.ac.uk
 [**Sustainable Triple-A Supply Chains**](https://onlinelibrary.wiley.com/doi/10.1111/poms.13306). 2021. _Production and Operations Management 30(3)_:644-655 (Special Issue)\
 With Feryal Erhun and Tim Kraft
 
-[**Treat, Dump, or Export?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876398) **How Domestic and International Waste Management Policies Shape Waste Chain Outcomes**. _Major Revision at Management Science_\
+[**Treat, Dump, or Export?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876398) **How Domestic and International Waste Management Policies Shape Waste Chain Outcomes**. _Major Revision at Management Science_ (1st round)\
 With Dominique Lauga and Beril Toktay
 - _Invited Seminars 2021_: Tilburg School of Economics and Management, UCL School of Management, Cornell SC Johnson College of Business
 - [_INFORMS 2021_ Job Market Talk](https://www.abstractsonline.com/pp8/#!/10390/session/231)
