@@ -2,6 +2,7 @@
 
 Prior to my PhD, I obtained a BSc and MSc in Economics and Finance at the VU University Amsterdam and an MPhil in Management Science and Operations at the University of Cambridge, Judge Business School. I also worked for 2 years as a quantitative analyst for commodity trading. At Cambridge, I have been actively involved as a PhD representative and with initiatives like Learning Together, a programme that brings prison inmates and University students together to study alongside each other and learn about the criminal justice system and the prison journey. I am a reviewer for Production and Operations Management.
 
+
 **Research Methods**: Game Theory, Applied Econometrics, Unsupervised Learning (clustering), Compositional Data Analysis\
 **Research Interests**: Supply Chain Management, Sustainable Sourcing, Waste Management, Poverty Alleviation, Social and Environmental Responsibility
 
