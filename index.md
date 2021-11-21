@@ -35,7 +35,7 @@ With Paul Kattuman
 **When is Honesty the Best Policy: a Game Theoretic Analysis of Price and Product Offering for Ethical and Fair-trade Goods**\
 With Dominique Lauga and Vincent Mak
 
-## Policy notes and research briefs
+## Policy notes and impact
 
 [From a problem to a resource: waste and the reverse supply chain explained](https://www.youtube.com/watch?v=bn5ZqCAiL_4)\
 National Festival of Social Science, November 2021
