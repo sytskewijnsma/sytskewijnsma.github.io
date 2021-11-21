@@ -37,7 +37,7 @@ With Dominique Lauga and Vincent Mak
 
 ## Policy notes and research briefs
 
-[From a problem to a resource: waste and the reverse supply chain explained](https://festivalofsocialscience.com/events/creative-short-project-2-treat-dump-or-export/)\
+[From a problem to a resource: waste and the reverse supply chain explained](https://www.youtube.com/watch?v=bn5ZqCAiL_4)\
 National Festival of Social Science, November 2021
 
 [Downstream sustainability: the big reset for recycling in the U.S.](https://www.kinaxis.com/en/blog/downstream-sustainability-big-reset-recycling-us)\
