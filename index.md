@@ -7,7 +7,7 @@ Prior to my PhD, I obtained a BSc and MSc in Economics and Finance at the VU Uni
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [1]: http://www.twitter.com/sytskewijnsma
-Follow me on [![alt text][1.2]][1] or e-mail swijnsma3@gatech.edu
+Follow me on [![alt text][1.2]][1]
 
 ## Research
 
