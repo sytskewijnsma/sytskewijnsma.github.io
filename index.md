@@ -1,6 +1,6 @@
-<img align="left" style="float: left; padding: 0px 10px 0px 0px;" width="340" src="https://user-images.githubusercontent.com/83771707/126292097-c8f9af7a-3fab-4c83-b345-90449d4dbbae.jpg"/>I am a post-doctoral researcher at GeorgiaTech, Scheller College of Business and a recent Ph.D. graduate in Management Science from the University of Cambridge, Judge Business School. My primary research interest is **designing supply chain and policy interventions that help solve real-world challenges with social and environmental impact**. The focus of my recent activities have been: eliminating non-compliance by firms in the waste chain (motivated by my collaboration with the environmental crime unit of Europol, the European Law Enforcement Agency) and identifying livelihood portfolios that help alleviate poverty of rural smallholders (motivated by my collaboration with the ecosystems and conservation units of the UN Environment). You can find my CV [here](https://drive.google.com/open?id=1Z12BoO1DNFrvdHCtkqQu1pf-fzxhQwBn).
+<img align="left" style="float: left; padding: 0px 10px 0px 0px;" width="340" src="https://user-images.githubusercontent.com/83771707/126292097-c8f9af7a-3fab-4c83-b345-90449d4dbbae.jpg"/>I am an Assistant Professor in Operations Management at UC Berkeley Haas. Before joining Haas, I was a post-doctoral researcher at GeorgiaTech, Scheller College of Business and obtained my Ph.D. in Management Science at the University of Cambridge, Judge Business School. My primary research interest is **designing supply chain and policy interventions that help solve real-world challenges with social and environmental impact**. The focus of my recent activities have been: eliminating non-compliance by firms in the waste chain (motivated by my collaboration with the environmental crime unit of Europol, the European Law Enforcement Agency) and identifying livelihood portfolios that help alleviate poverty of rural smallholders (motivated by my collaboration with the ecosystems and conservation units of the UN Environment). You can find my CV [here](https://drive.google.com/open?id=1Z12BoO1DNFrvdHCtkqQu1pf-fzxhQwBn).
 
-Prior to my PhD, I obtained a BSc and MSc in Economics and Finance at the VU University Amsterdam and an MPhil in Management Science and Operations at the University of Cambridge, Judge Business School. I also worked for 2 years as a quantitative analyst for commodity trading. At Cambridge, I have been actively involved as a PhD representative and with initiatives like Learning Together, a programme that brings prison inmates and University students together to study alongside each other and learn about the criminal justice system and the prison journey. I am a reviewer for Production and Operations Management. <br />
+Prior to my PhD, I obtained a BSc and MSc in Economics and Finance at the VU University Amsterdam and an MPhil in Management Science and Operations at the University of Cambridge, Judge Business School. I also worked for 2 years as a quantitative analyst for commodity trading. At Cambridge, I have been actively involved as a PhD representative and with initiatives like Learning Together, a programme that brings prison inmates and University students together to study alongside each other and learn about the criminal justice system and the prison journey. I am a reviewer for Management Science, Naval Research Logistics, and Production and Operations Management. <br />
 
 **Research Methods**: Game Theory, Applied Econometrics, Unsupervised Learning (clustering), Compositional Data Analysis\
 **Research Interests**: Supply Chain Management, Sustainable Sourcing, Circularity, Illicit Supply Chains, Social and Environmental Impact
@@ -54,47 +54,6 @@ BRAC and Simprints Internal Report, August 2018
 
 ![Sytske_UNEP2](https://user-images.githubusercontent.com/83771707/117344342-322f6f00-ae9d-11eb-8846-c7fa93d3f068.jpg)
 
-## Teaching
-[Operations Management](https://www.jbs.cam.ac.uk/programmes/executive-mba/curriculum/programme-structure/courses/) (Course Coordinator)\
-2020, 2021 (Executive MBA)
-- Leading Panel Discussions: [Will coronavirus disruptions prompt a new focus on supply chain risk and resiliency for business?](https://www.jbs.cam.ac.uk/insight/2020/supply-chain-resiliency/)
-- Faculty Teaching Award for achieving evaluations >4/5 (4.5, 4.7)
-- Some of the testimonials:
->_"Sytske's interactions in the chat during lectures, and on the VLE between lectures has been very useful. She's shared
-examples that both illuminate and expand on the concepts we've been discussing, and she's highlighted the best contributions
-by members of the class"_\
->_"Sytske was absolutely fantastic and lived up to the expectation!"_\
->_"The interactions were excellent and she was incredibly helpful on queries which extended beyond the course!"_\
->_"Fantastic contributions on the VLE (Virtual Learning Environment) from Sytske both in the run up to and after lecture weekends providing useful ideas and generating discussions."_
-
-[Marketing Management](https://www.jbs.cam.ac.uk/programmes/executive-mba/curriculum/programme-structure/courses/) (Course Coordinator)\
-2018, 2019 (Executive MBA)
-- Faculty Teaching Award for achieving evaluations >4/5 (4.8, 4.9)
-- Some of the testimonials:
->_"Sytske is one of our most proactive coordinators. Her case study session on Nike Football was excellent!"_\
->_"Sytske is the best course co-ordinator ever"_\
->_"Sytske was absolutely amazing. I had chats in person and emails with her and she was always ready to help - to the point that she kept responding even while away in Africa."_
-
-[Econometrics](https://www.jbs.cam.ac.uk/programmes/master-of-finance/curriculum/core-courses/) (TA)\
-2019, 2020 (Master of Finance)
-- Faculty Teaching Award for achieving evaluations >4/5 (4.5, 4.5)
-- Some of the testimonials:
->_"She was very well prepared and was very good at explaining both the theoretical fundamentals and applications of lab sessions in practical and understandable terms."_\
->_"Her lectures are very clear and straight forward. She completely deserves the top notch scores on her feedback!"_\
->_"I wouldn't have understood Econometrics as well as I do now if it wasn’t for her lectures -  and a lot of students think the same!"_
-
-[Economics of Firms and Markets]() (Supervisor)\
-2018, 2019 (Undergraduates)
-- Faculty Teaching Award for achieving evaluations >4/5 (4.7, 5.0)
-- Some of the testimonials:
->_"Sytske was brilliant. Twice she has gone out of her way to extend the supervision. The effort she has put in has made a considerable difference to my confidence and understanding of economics."_\
->_"Sytske is an amazing supervisor. She explains the concepts really clearly and asks engaging questions."_\
->_"A saviour in my personal understanding of the subject, explained concepts with clarity. Very willing to give time for questions. An excellent supervisor!"_
-
-[Econometrics II](https://www.jbs.cam.ac.uk/programmes/research-programmes/research-masters/mphil-strategy-marketing-operations/programme-overview/the-operations-technology-management-specialisation/) (TA)\
-2016, 2017, 2018 (Research Masters)
-- Faculty Teaching Award for achieving evaluations >4/5 (4.2, 4.3, 4.8)
-
-[Fundamentals of Competitive Markets](https://www.jbs.cam.ac.uk/programmes/research-programmes/research-masters/mphil-strategy-marketing-operations/programme-overview/the-operations-technology-management-specialisation/) (TA)\
-2017, 2018 (Research Masters)
-- Faculty Teaching Award for achieving evaluations >4/5 (4.4, 4.7)
+%## Teaching
+%[Operations Management](https://www.jbs.cam.ac.uk/programmes/executive-mba/curriculum/programme-structure/courses/) (Course Coordinator)\
+%2020, 2021 (Executive MBA)
