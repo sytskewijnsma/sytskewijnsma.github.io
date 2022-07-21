@@ -53,7 +53,3 @@ Longitudinal study of a biometric enabled community health programme. \
 BRAC and Simprints Internal Report, August 2018
 
 ![Sytske_UNEP2](https://user-images.githubusercontent.com/83771707/117344342-322f6f00-ae9d-11eb-8846-c7fa93d3f068.jpg)
-
-<!## Teaching
-[Operations Management](https://www.jbs.cam.ac.uk/programmes/executive-mba/curriculum/programme-structure/courses/) (Course Coordinator)\
-2020, 2021 (Executive MBA)>
