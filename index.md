@@ -25,14 +25,14 @@ With Dominique Lauga and Beril Toktay
 
 ### Working papers
 
-**Rural smallholders, income portfolios, and spillovers: Broadening the view for poverty alleviation strategies**.
+**Rural smallholders, income portfolios, and spillovers: Broadening the view for poverty alleviation strategies.**
 With Paul Kattuman
 - [_MSOM Conference_](https://whova.com/portal/webapp/masom_202106/Agenda/1681660) 2021, Virtual
 - _POMS_ 2021, Virtual
 - _United Nations Environment Programme Seminar Series_ 2019, Nairobi
 - Recipient of the _Economic and Social Research Council Grant_ for collaborative activities, 2019
 
-**When is Honesty the Best Policy: a Game Theoretic Analysis of Price and Product Offering for Ethical and Fair-trade Goods**.
+**When is Honesty the Best Policy: a Game Theoretic Analysis of Price and Product Offering for Ethical and Fair-trade Goods.**
 
 ## Policy notes and impact
 
