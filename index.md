@@ -33,7 +33,6 @@ With Paul Kattuman
 - Recipient of the _Economic and Social Research Council Grant_ for collaborative activities, 2019
 
 **When is Honesty the Best Policy: a Game Theoretic Analysis of Price and Product Offering for Ethical and Fair-trade Goods**\
-With Dominique Lauga and Vincent Mak
 
 ## Policy notes and impact
 
