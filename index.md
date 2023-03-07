@@ -25,7 +25,7 @@ With Dominique Lauga and Beril Toktay
 
 ### Working papers
 
-**Sourcing with a Portfolio Perspective: How Income Composition Affects Smallholder Poverty in Rural Villages**. _In preparation for submission to Management Science_\
+**Rural smallholders, income portfolios, and spillovers: Broadening the view for poverty alleviation strategies**.
 With Paul Kattuman
 - [_MSOM Conference_](https://whova.com/portal/webapp/masom_202106/Agenda/1681660) 2021, Virtual
 - _POMS_ 2021, Virtual
