@@ -12,16 +12,20 @@ Follow me on [![alt text][1.2]][1]
 ## Research
 
 ### Published and under review
-[**Sustainable Triple-A Supply Chains**](https://onlinelibrary.wiley.com/doi/10.1111/poms.13306). 2021. _Production and Operations Management 30(3)_:644-655 (Special Issue)\
-With Feryal Erhun and Tim Kraft
 
-[**Treat, Dump, or Export?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876398) **How Domestic and International Waste Management Policies Shape Waste Chain Outcomes**. _Accepted at Management Science_ \
-With Dominique Lauga and Beril Toktay
+**Smart Solutions: Improving Compliance in Waste Chains with Product Information Platforms.** 2024. In _Responsible and Sustainable Operations: The New Frontier_. pp. 85-103. Cham: Springer Nature Switzerland.\
+With Beril L. Toktay
+
+[**Treat, Dump, or Export?**](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.02061) **How Domestic and International Waste Management Policies Shape Waste Chain Outcomes**. 2023. _Management Science_ \
+With Dominique Lauga and Beril L. Toktay
 - [_INFORMS 2021_ Job Market Talk](https://www.abstractsonline.com/pp8/#!/10390/session/231)
 - [_MSOM Sustainable Operations SIG_](https://whova.com/portal/webapp/masom_202106/Agenda/1656151) 2021, Virtual
 - [_Wharton Seminar Series_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876398) March 2021, Virtual (Presented by Beril Toktay)
-- _INFORMS_ 2019, 2020
+- _INFORMS_ 2019, 2021, 2022
 - _Europol Annual Environmental Crime Meeting_ 2018, The Hague
+
+[**Sustainable Triple-A Supply Chains**](https://onlinelibrary.wiley.com/doi/10.1111/poms.13306). 2021. _Production and Operations Management 30(3)_:644-655 (Special Issue)\
+With Feryal Erhun and Tim Kraft
 
 ### Working papers
 
