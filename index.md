@@ -11,7 +11,7 @@ Prior to my PhD, I obtained a BSc and MSc in Economics and Finance at the VU Uni
 
 ### Published and under review
 
-[**Smart Solutions**](https://link.springer.com/chapter/10.1007/978-3-031-60867-4_7)**: Improving Compliance in Waste Chains with Product Information Platforms.** 2024. In _Responsible and Sustainable Operations: The New Frontier_. pp. 85-103. Cham: Springer Nature Switzerland.\
+[**Smart Solutions**](https://link.springer.com/chapter/10.1007/978-3-031-60867-4_7)**: Improving Compliance in Waste Chains with Product Information Platforms.** 2024. In _Responsible and Sustainable Operations: The New Frontier_. pp. 85-103. Cham: Springer Nature.\
 With Beril L. Toktay
 
 [**Treat, Dump, or Export?**](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.02061) **How Domestic and International Waste Management Policies Shape Waste Chain Outcomes**. 2023. _Management Science_ \
