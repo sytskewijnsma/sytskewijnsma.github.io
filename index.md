@@ -45,7 +45,7 @@ Haas Newsroom, 2024
 Haas Newsroom, February 2024
 
 [From a problem to a resource: waste and the reverse supply chain explained](https://www.youtube.com/watch?v=bn5ZqCAiL_4)\
-National Festival of Social Science, November 2021
+UK National Science Festival, November 2021
 
 [Downstream sustainability: the big reset for recycling in the U.S.](https://www.kinaxis.com/en/blog/downstream-sustainability-big-reset-recycling-us)\
 Kinaxis column, July 2020
