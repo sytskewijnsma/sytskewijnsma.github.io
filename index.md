@@ -6,8 +6,6 @@ Prior to my PhD, I obtained a BSc and MSc in Economics and Finance at the VU Uni
 **Research Interests**: Supply Chain Management, Sustainable Sourcing, Circularity, Illicit Supply Chains, Social and Environmental Impact
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
-[1]: http://www.twitter.com/sytskewijnsma
-Follow me on [![alt text][1.2]][1]
 
 ## Research
 
