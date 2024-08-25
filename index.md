@@ -38,6 +38,12 @@ With Paul Kattuman
 
 ## Policy notes and impact
 
+[Laying Waste](https://newsroom.haas.berkeley.edu/magazine/spring-2024/laying-waste/)\
+Haas Newsroom, 2024
+
+As e-waste streams grow, regulations are backfiring, study finds](https://newsroom.haas.berkeley.edu/research/as-e-waste-streams-grow-regulations-are-backfiring-study-finds/)\
+Haas Newsroom, February 2024
+
 [From a problem to a resource: waste and the reverse supply chain explained](https://www.youtube.com/watch?v=bn5ZqCAiL_4)\
 National Festival of Social Science, November 2021
 
@@ -46,11 +52,5 @@ Kinaxis column, July 2020
 
 [Helping Europol reduce illegal electronic waste trafficking – how to leverage a PhD to have impact.](https://www.jbs.cam.ac.uk/insight/2020/helping-europol-reduce-illegal-electronic-waste-trafficking-how-to-leverage-a-phd-to-have-impact/)\
 Cambridge University Judge Business School column, July 2020
-
-Africa’s Co-existence Landscapes: Understanding Land-use Decisions to Secure the Future for Wildlife and People. \
-UNEP Internal Report, September 2019
-
-Longitudinal study of a biometric enabled community health programme. \
-BRAC and Simprints Internal Report, August 2018
 
 ![Sytske_UNEP2](https://user-images.githubusercontent.com/83771707/117344342-322f6f00-ae9d-11eb-8846-c7fa93d3f068.jpg) 
