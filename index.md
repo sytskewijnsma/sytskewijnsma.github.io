@@ -41,7 +41,7 @@ With Paul Kattuman
 [Laying Waste](https://newsroom.haas.berkeley.edu/magazine/spring-2024/laying-waste/)\
 Haas Newsroom, 2024
 
-As e-waste streams grow, regulations are backfiring, study finds](https://newsroom.haas.berkeley.edu/research/as-e-waste-streams-grow-regulations-are-backfiring-study-finds/)\
+[As e-waste streams grow, regulations are backfiring, study finds](https://newsroom.haas.berkeley.edu/research/as-e-waste-streams-grow-regulations-are-backfiring-study-finds/)\
 Haas Newsroom, February 2024
 
 [From a problem to a resource: waste and the reverse supply chain explained](https://www.youtube.com/watch?v=bn5ZqCAiL_4)\
