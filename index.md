@@ -30,6 +30,9 @@ With Dominique Lauga and Beril Toktay
 - ESSEC Seminar Series, 2025
 - INSEAD (upcoming), 2026
 
+**A Spatial Procurement Game for Cattle Supply Chains: Enforcement, Competition, and Illegality**
+With Andre Calmon and the Global Land Use and Environment (GLUE) Lab.
+
 **Rural smallholders, income portfolios, and spillovers: Broadening the view for poverty alleviation strategies.**
 With Paul Kattuman
 - [_MSOM Conference_](https://whova.com/portal/webapp/masom_202106/Agenda/1681660) 2021, Virtual
