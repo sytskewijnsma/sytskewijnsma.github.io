@@ -14,9 +14,6 @@
 
 ### Published
 
-[**Smart Solutions**](https://link.springer.com/chapter/10.1007/978-3-031-60867-4_7)**: Improving Compliance in Waste Chains with Product Information Platforms.** 2024. In _Responsible and Sustainable Operations: The New Frontier_. pp. 85-103. Cham: Springer Nature.\
-With Beril L. Toktay
-
 [**Treat, Dump, or Export?**](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.02061) **How Domestic and International Waste Management Policies Shape Waste Chain Outcomes**. 2024. _Management Science, 70(11), 7397-7421_ \
 With Dominique Lauga and Beril L. Toktay
 
@@ -43,6 +40,11 @@ With Paul Kattuman
 - Recipient of the _Economic and Social Research Council Grant_ for collaborative activities, 2019
 
 **When is Honesty the Best Policy: a Game Theoretic Analysis of Price and Product Offering for Ethical and Fair-trade Goods.**
+
+## Book Chapters
+
+[**Smart Solutions**](https://link.springer.com/chapter/10.1007/978-3-031-60867-4_7)**: Improving Compliance in Waste Chains with Product Information Platforms.** 2024. In _Responsible and Sustainable Operations: The New Frontier_. pp. 85-103. Cham: Springer Nature.\
+With Beril L. Toktay
 
 ## Policy notes and impact
 
