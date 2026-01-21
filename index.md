@@ -25,7 +25,7 @@ With Dominique Lauga and Beril L. Toktay
 - _INFORMS_ 2019, 2021, 2022
 - _Europol Annual Environmental Crime Meeting_ 2018, The Hague
 
-[**Sustainable Triple-A Supply Chains**](https://onlinelibrary.wiley.com/doi/10.1111/poms.13306). 2021. _Production and Operations Management 30(3)_:644-655 (Special Issue)\
+[**Sustainable Triple-A Supply Chains**](https://onlinelibrary.wiley.com/doi/10.1111/poms.13306). 2021. _Production and Operations Management 30(3)_:644-655\
 With Feryal Erhun and Tim Kraft
 
 ### Working papers
