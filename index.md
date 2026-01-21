@@ -1,5 +1,5 @@
 <img src="/assets/20220909_1_0236f.jpg" alt="Headshot" width="500" height=auto>
-<br />I am an Assistant Professor in Operations Management at UC Berkeley Haas. My primary research interests center around sustainable operations and supply chain management, using game-theoretic models to analyze the intersection of operational strategy, regulatory policy, and environmental impact. I am specifically interested in supply chain challenges in consumer electronics, such as obsolescence and e-waste, and the mechanics behind noncompliance in global networks.
+<br />I am an Assistant Professor in Operations Management at UC Berkeley Haas. My primary research interests center around sustainable operations and supply chain management, using game-theoretic models to analyze the intersection of operational strategy, regulatory policy, and environmental impact. I am specifically interested in supply chain challenges in consumer electronics, such as obsolescence and e-waste, and the mechanics behind noncompliance in global networks.<br />
 
 Before joining Haas, I was a post-doctoral researcher at GeorgiaTech, Scheller College of Business and obtained my Ph.D. and MPhil in Management Science at the University of Cambridge, Judge Business School. I also worked for 2 years as a quantitative analyst for commodity trading. <br />
 
