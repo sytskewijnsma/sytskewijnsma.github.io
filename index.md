@@ -1,8 +1,6 @@
 <img src="/assets/20220909_1_0236f.jpg" alt="Headshot" width="500" height=auto>
 <br />I am an Assistant Professor in Operations Management at UC Berkeley Haas. My primary research interests center around sustainable operations and supply chain management, using game-theoretic models to analyze the intersection of operational strategy, regulatory policy, and environmental impact. I am specifically interested in supply chain challenges in consumer electronics, such as obsolescence and e-waste, and the mechanics behind noncompliance in global networks.
 
-<br />
-
 <br />Before joining Haas, I was a post-doctoral researcher at GeorgiaTech, Scheller College of Business and obtained my Ph.D. and MPhil in Management Science at the University of Cambridge, Judge Business School. I also worked for 2 years as a quantitative analyst for commodity trading. <br />
 
 **Research Methods**: Game Theory, Applied Econometrics, Unsupervised Learning (clustering)\
@@ -17,7 +15,7 @@
 [**Smart Solutions**](https://link.springer.com/chapter/10.1007/978-3-031-60867-4_7)**: Improving Compliance in Waste Chains with Product Information Platforms.** 2024. In _Responsible and Sustainable Operations: The New Frontier_. pp. 85-103. Cham: Springer Nature.\
 With Beril L. Toktay
 
-[**Treat, Dump, or Export?**](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.02061) **How Domestic and International Waste Management Policies Shape Waste Chain Outcomes**. 2024. _Management Science_ \
+[**Treat, Dump, or Export?**](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.02061) **How Domestic and International Waste Management Policies Shape Waste Chain Outcomes**. 2024. _Management Science, 70(11), 7397-7421_ \
 With Dominique Lauga and Beril L. Toktay
 - [_INFORMS 2021_ Job Market Talk](https://www.abstractsonline.com/pp8/#!/10390/session/231)
 - [_MSOM Sustainable Operations SIG_](https://whova.com/portal/webapp/masom_202106/Agenda/1656151) 2021, Virtual
