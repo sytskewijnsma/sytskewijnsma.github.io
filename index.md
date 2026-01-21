@@ -17,11 +17,6 @@ With Beril L. Toktay
 
 [**Treat, Dump, or Export?**](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.02061) **How Domestic and International Waste Management Policies Shape Waste Chain Outcomes**. 2024. _Management Science, 70(11), 7397-7421_ \
 With Dominique Lauga and Beril L. Toktay
-- [_INFORMS 2021_ Job Market Talk](https://www.abstractsonline.com/pp8/#!/10390/session/231)
-- [_MSOM Sustainable Operations SIG_](https://whova.com/portal/webapp/masom_202106/Agenda/1656151) 2021, Virtual
-- [_Wharton Seminar Series_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3876398) March 2021, Virtual (Presented by Beril Toktay)
-- _INFORMS_ 2019, 2021, 2022
-- _Europol Annual Environmental Crime Meeting_ 2018, The Hague
 
 [**Sustainable Triple-A Supply Chains**](https://onlinelibrary.wiley.com/doi/10.1111/poms.13306). 2021. _Production and Operations Management 30(3)_:644-655\
 With Feryal Erhun and Tim Kraft
