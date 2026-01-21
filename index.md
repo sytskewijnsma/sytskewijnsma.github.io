@@ -3,7 +3,7 @@
 
 <br />
 
-Before joining Haas, I was a post-doctoral researcher at GeorgiaTech, Scheller College of Business and obtained my Ph.D. and MPhil in Management Science at the University of Cambridge, Judge Business School. I also worked for 2 years as a quantitative analyst for commodity trading. <br />
+<br />Before joining Haas, I was a post-doctoral researcher at GeorgiaTech, Scheller College of Business and obtained my Ph.D. and MPhil in Management Science at the University of Cambridge, Judge Business School. I also worked for 2 years as a quantitative analyst for commodity trading. <br />
 
 **Research Methods**: Game Theory, Applied Econometrics, Unsupervised Learning (clustering)\
 **Research Interests**: Supply Chain Management, Sustainable Sourcing, Circularity, Illicit Supply Chains, Social and Environmental Impact
