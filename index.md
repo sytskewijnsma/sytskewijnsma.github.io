@@ -12,7 +12,7 @@
 
 ## Research
 
-### Published and under review
+### Published
 
 [**Smart Solutions**](https://link.springer.com/chapter/10.1007/978-3-031-60867-4_7)**: Improving Compliance in Waste Chains with Product Information Platforms.** 2024. In _Responsible and Sustainable Operations: The New Frontier_. pp. 85-103. Cham: Springer Nature.\
 With Beril L. Toktay
@@ -29,6 +29,13 @@ With Dominique Lauga and Beril L. Toktay
 With Feryal Erhun and Tim Kraft
 
 ### Working papers
+
+**Smarter Products, Shorter Lifespans: The Environmental Cost of Embedded Software.**
+With Dominique Lauga and Beril Toktay
+- [_Stanford GSB Seminar Series_](https://www.gsb.stanford.edu/faculty-research/faculty/seminars/operations-information-technology), 2025
+- [_Doing Good with Good OM and OR Workshop_](https://scm.ncsu.edu/event/academic-workshop-doing-good-with-om-and-or), NC State, 2025
+- ESSEC Seminar Series, 2025
+- INSEAD (upcoming), 2026
 
 **Rural smallholders, income portfolios, and spillovers: Broadening the view for poverty alleviation strategies.**
 With Paul Kattuman
