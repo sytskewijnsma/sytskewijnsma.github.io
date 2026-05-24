@@ -21,6 +21,11 @@ With Feryal Erhun and Tim Kraft
 
 ### Working papers
 
+**Rethinking livelihood intervention design for rural smallholders: A population dynamics approach under adoption externalities.**
+With Antoine Feylessoufi and Paul Kattuman
+- Conferences: MSOM, POMS, UNEP Seminar Series (Nairobi)
+- Recipient of the _Economic and Social Research Council Grant_ for collaborative activities
+  
 **Smarter Products, Shorter Lifespans: The Environmental Cost of Embedded Software.**
 With Dominique Lauga and Beril Toktay
 - [_Stanford GSB Seminar Series_](https://www.gsb.stanford.edu/faculty-research/faculty/seminars/operations-information-technology), 2025
@@ -30,15 +35,6 @@ With Dominique Lauga and Beril Toktay
 
 **A Spatial Procurement Game for Cattle Supply Chains: Enforcement, Competition, and Illegality**
 With Andre Calmon and the Global Land Use and Environment (GLUE) Lab.
-
-**Rural smallholders, income portfolios, and spillovers: Broadening the view for poverty alleviation strategies.**
-With Paul Kattuman
-- [_MSOM Conference_](https://whova.com/portal/webapp/masom_202106/Agenda/1681660) 2021, Virtual
-- _POMS_ 2021, Virtual
-- _United Nations Environment Programme Seminar Series_ 2019, Nairobi
-- Recipient of the _Economic and Social Research Council Grant_ for collaborative activities, 2019
-
-**When is Honesty the Best Policy: a Game Theoretic Analysis of Price and Product Offering for Ethical and Fair-trade Goods.**
 
 ## Book Chapters
 
