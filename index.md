@@ -21,7 +21,7 @@ With Feryal Erhun and Tim Kraft
 
 ### Working papers
 
-**Rethinking livelihood intervention design for rural smallholders: A population dynamics approach under adoption externalities.**
+[**Rethinking livelihood intervention design for rural smallholders:**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6823479) **A population dynamics approach under adoption externalities.**
 With Antoine Feylessoufi and Paul Kattuman
 - Conferences: MSOM, POMS, UNEP Seminar Series (Nairobi)
 - Recipient of the _Economic and Social Research Council Grant_ for collaborative activities
