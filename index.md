@@ -14,7 +14,7 @@
 ### Published
 
 [**Treat, Dump, or Export?**](https://pubsonline.informs.org/doi/10.1287/mnsc.2021.02061) **How Domestic and International Waste Management Policies Shape Waste Chain Outcomes**. 2024. _Management Science, 70(11), 7397-7421_ \
-With Dominique Lauga and Beril L. Toktay\
+With Dominique Lauga and Beril L. Toktay
 - Finalist MSOM Award for Responsible Research in Operations Management (2025)
 
 [**Sustainable Triple-A Supply Chains**](https://onlinelibrary.wiley.com/doi/10.1111/poms.13306). 2021. _Production and Operations Management 30(3)_:644-655\
